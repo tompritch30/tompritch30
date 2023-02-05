@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tompritch30
-- 👀 I’m interested in becoming an advanced python programmer
-- 🌱 I’m currently learning RICE principles of computing course
+- 👀 I’m interested in becoming a Data Scientist
+- 🌱 I’m currently applying to Masters Computer Science Courses
 - 💞️ I’m looking to collaborate on anything an intermediate coder could help
 - 📫 How to reach me, on comments!
 <!---
