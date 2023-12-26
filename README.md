@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tompritch30
-- 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently applying to Masters Computer Science Courses
+- 👀 I’m interested in becoming a Data Analyst or a Software Engineer
+- 🌱 I’m a current MSc Imperial College London Computer Science Student
 - 💞️ I’m looking to collaborate on anything an intermediate coder could help
 - 📫 How to reach me, on comments!
 <!---
